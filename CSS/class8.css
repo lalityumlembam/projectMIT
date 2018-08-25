@@ -1,0 +1,26 @@
+<html>
+
+<style>
+	.style1{
+		width: 300px;
+		height: 400px;
+		border-style: solid;//dashed, dotted, double, inset, outset, ridge, groove, none;
+		border-color: red;//primary,hexcodes,rgb;
+		border-width: 5px   ;
+		
+	}
+	
+	.style2{
+		width: 300px;
+		height: 400px;
+		border: solid blue 10px;
+		
+	}
+</style>
+
+<div class = "style1">
+</div>
+
+<div class = "style2">
+</div>
+</html>

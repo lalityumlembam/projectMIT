@@ -1,0 +1,21 @@
+CSS
+
+cascading Style sheet
+
+
+1. internal stylesheet
+2. external stylesheet
+3. inline stylesheet
+
+1. 
+<style>
+	properties
+
+
+		
+</style>
+
+
+2. external files xyz.css (xys just a random name)
+
+	<link rel = "stylesheet" href = "xyz.css">
